@@ -16,7 +16,7 @@ This automatic replacement can be enabled or disabled in the advanced settings t
 ![image](https://github.com/user-attachments/assets/0e0224a7-03e8-4248-90fc-6eedceccbf54)
 
 
-## Simple Text Formatting
+## Text Style Formatting
 Lite allows you to use a somewhat standardized markup format to display different text styles, similar to reddit or discord.  Exactly how Lite renders the markup depends on which theme you are using.
 
 Raw markup:  ![image](https://github.com/user-attachments/assets/6fb7000e-288c-4cb0-ad3d-005141582a56)
