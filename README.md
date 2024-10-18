@@ -2,6 +2,20 @@
 A guide to fancy text markup supported by the Kobold Lite webUI
 
 
+## {{user}} and {{char}} Placeholders
+These strings take the place of your name and the AI's assigned name, respectively.  
+
+![image](https://github.com/user-attachments/assets/36f990c2-5a68-4cf2-b204-6998d50ebd0b)
+
+![image](https://github.com/user-attachments/assets/4e89dfa5-350d-4bfb-bfee-6c7e838e6911)
+
+![image](https://github.com/user-attachments/assets/43240fcd-fbf1-4d47-b0ec-73ec6f6dd09e)
+
+This automatic replacement can be enabled or disabled in the advanced settings tab.
+
+![image](https://github.com/user-attachments/assets/0e0224a7-03e8-4248-90fc-6eedceccbf54)
+
+
 ## Simple Text Formatting
 Lite allows you to use a somewhat standardized markup format to display different text styles, similar to reddit or discord.  Exactly how Lite renders the markup depends on which theme you are using.
 
